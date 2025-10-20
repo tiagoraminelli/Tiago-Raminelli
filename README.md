@@ -13,6 +13,8 @@ Actualmente trabajo con **PHP (Laravel)**, **Blade**, **MySQL** y herramientas m
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828">
+<img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828">
 </p>
